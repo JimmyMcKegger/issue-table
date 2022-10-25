@@ -1,6 +1,6 @@
 # Issues
 
-**TODO: Add description**
+A command line tool to fetch a user's issues from Github.
 
 ## Installation
 
